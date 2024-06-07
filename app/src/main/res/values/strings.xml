@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basic Set Operation</string>
+    <string name="input_1_example_input">Input 1 (Example input - 1,3,5,6,8)</string>
+    <string name="input_2_example_input">Input 2 (Example input - 1,3,5,6,9)</string>
+    <string name="input_3_example_input">Input 3 (Example input - 1,3,5,6,10)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="intersect">Intersect: %1$s</string>
+    <string name="highest_number">Highest Number: %1$s</string>
+    <string name="union">Union: %1$s</string>
+
+    <string name="please_provide_input">Please Provide Input</string>
+    <string name="please_provide_valid_input">Please Provide Valid Input (Comma Separated Numbers)</string>
+    <string name="developed_by_ashish_tripathi">Developed by Ashish Tripathi</string>
+</resources>
